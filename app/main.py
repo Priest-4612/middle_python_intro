@@ -1,7 +1,7 @@
 """Генератор приветствий."""
 
 
-def Greeting(name: str) -> str:
+def greeting(name: str) -> str:
     """Возвращает текст приветствия.
 
     Args:
